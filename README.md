@@ -1,6 +1,6 @@
 **Day Seven - 30 days of React challenge - "Vet Log" app**
 
-This React.js app would be used as ui by a vet (as in a doctor for animals), to log the date and details of a pet visit to their clinic.
+This React.js interfce would be used by a vet (as in a doctor for animals), to log the date and details of a pet visit to their clinic.
 
 **Concepts Explored:**
 - Forms with React
